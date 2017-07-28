@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Drink It</string>
+    <string name="action_settings">Conectarse</string>
+    <string name="action_add_favourite">Comenzar a preparar</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">JUST DRINK IT</string>
+    <string name="backdrop_subtitle">A que no puedes uno más</string>
+
+    <string name="version11">Version hello kitty</string>
+    <string name="version12">Version lomo de leñador</string>
+
+    //String Bluetooth
+    <string name="rojo">Rojo</string>
+    <string name="kia_cerato_koup_2_0">Kia Cerato Koup 2.0</string>
+    <string name="verde">verde</string>
+    <string name="azul">Azul</string>
+    <string name="verde3">Verde</string>
+    <string name="hello_world">Encendiendo un led</string>
+    <string name="menu_settings">Opciones</string>
+    <string name="title_activity_main">Led</string>
+    <string name="bluetooth">Conectarse a Drink it</string>
+    <string name="On">Apagar</string>
+    <string name="Off">Encender</string>
+    <string name="vacio"></string>
+    <string name="Desconexion">Desconectar</string>
+    <string name="rojovalor">%rojo</string>
+    <string name="valorazul">valorazul</string>
+    <string name="_0">0</string>
+    <string name="no_conectado">No conectado!</string>
+    <string name="desig_by_xavier_ramon">Designed by Xavier Ramon</string>
+    <string name="salir">Salir</string>
+</resources>
